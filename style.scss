@@ -5,7 +5,7 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	margin: 0 auto;
-	background-color: #f4e7e6;
+	background-color: #313234;
 }
 .container {
 	width: 100%;
@@ -14,10 +14,8 @@ body {
 /* <--------- HEADER ---------> */
 header {
  width: 100%;
- background-color: #313234;
-}
-div .container {
-	display: flex;
+ background-color: #007c91;
+ 	text-align: center;
 }
 
 /* <--------- HEADER-END ---------> */
@@ -25,19 +23,7 @@ div .container {
 
 /* <--------- TEXT ---------> */
 .text {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-}
-.text > .art {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.article {
-	width: 600px;
-	padding: 5px 15px;
 	text-align: center;
-	font-weight: bold;
+	color:#00bbd9
 }
 /* <--------- TEXT-END  ---------> */
