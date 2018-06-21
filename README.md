@@ -1,1 +1,1 @@
-# learning-git-2
+https://idasierpniowa89.github.io/learning-git-2/.
